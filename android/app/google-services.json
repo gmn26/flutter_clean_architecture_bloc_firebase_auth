@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395965045150",
+    "project_id": "flutter-clean-architectu-5331a",
+    "storage_bucket": "flutter-clean-architectu-5331a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395965045150:android:eb6d56cdd04bd218bd1e8f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_clean_architecture_bloc_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnoGE_dihDG9Rpd8TP440Qxu7SMCoH3ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
